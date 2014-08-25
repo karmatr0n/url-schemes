@@ -42,6 +42,3 @@ func main() {
   router.NotFoundHandler = customNotFoundHandler
   router.Run()
 }
-
-// Methods
-// urls, airdrop, Open-In, Cloud, Paste-Boards, Hacks

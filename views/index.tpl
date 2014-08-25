@@ -7,7 +7,7 @@
   var target = document.getElementById("target");
   var fakeEvent = document.createEvent("MouseEvents");
   fakeEvent.initEvent("click", true, false);
-  //target.dispatchEvent(fakeEvent);
+  target.dispatchEvent(fakeEvent);
 </script>
 <br/>
 <h2>Server-side by redirecting the user to a tel location</h2>
