@@ -1,4 +1,4 @@
-Small web application to _take advantage_ URL Schemes in iOS
+Small web application to _take advantage_ of URL Schemes in iOS
 =====================================
 
 It is not a 0day in the traditional meaning, it's a simple _did not read the manual_ and _bad defaults_ case from Apple.
