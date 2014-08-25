@@ -17,7 +17,7 @@ Installation
 1. git clone https://github.com/juarlex/url-schemes.git
 2. Edit the traffic.conf file and set your settings
 3. go clean; go build; ./url-schemes
-4. Open the page in your iOS device or in your web browser: http://127.0.0.1:3000/
+4. Open the page in your iOS device or your web browser: http://127.0.0.1:3000/
 
 References
 ==========
